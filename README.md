@@ -49,4 +49,6 @@ O Markdown permite a criação de títulos hierárquicos, ênfase em texto, list
 
 Boas práticas de documentação incluem o uso de linguagem objetiva e técnica, manutenção contínua do conteúdo conforme o projeto evolui, priorização de exemplos práticos quando aplicável e a remoção de informações redundantes ou informais.
 
+Lembre-se sempre, um README bem escrito é um ótimo cartão de visitas para apresentar seu projeto e skills para o mundo!
+
 
